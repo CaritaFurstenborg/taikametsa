@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaikaMetsa2PRPG", "Assembly-CSharp.csproj", "{862A149E-58D0-CF5F-A0F5-647D0A0BF789}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaikaMetsa2PRPG", "Assembly-CSharp-Editor.csproj", "{A226AB1A-05FA-9587-E621-127F81A5879B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{862A149E-58D0-CF5F-A0F5-647D0A0BF789}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{862A149E-58D0-CF5F-A0F5-647D0A0BF789}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{862A149E-58D0-CF5F-A0F5-647D0A0BF789}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{862A149E-58D0-CF5F-A0F5-647D0A0BF789}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A226AB1A-05FA-9587-E621-127F81A5879B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A226AB1A-05FA-9587-E621-127F81A5879B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A226AB1A-05FA-9587-E621-127F81A5879B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A226AB1A-05FA-9587-E621-127F81A5879B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
